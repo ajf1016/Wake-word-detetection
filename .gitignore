@@ -1,0 +1,6 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore everything in audio_data
+audio_data/*
+background_sounds/*
